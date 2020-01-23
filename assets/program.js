@@ -90,7 +90,7 @@ function generatePassword() {
     }
 
     let password = passArray.join("");
-    alert(password);
+    return password;
 
 }
 
